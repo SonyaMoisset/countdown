@@ -1,0 +1,19 @@
+.wrapper {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 20%;
+}
+
+.wrapper-title {
+    font-size: 50px;
+}
+
+.clock {
+    display: inline;
+    margin: 10px;
+}
+
+.deadline-input {
+    font-size: 25px;
+    margin: 5px;
+}
