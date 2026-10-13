@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "^15.7.0",
-    "react-bootstrap": "^0.30.10",
+    "react-bootstrap": "^0.33.0",
     "react-dom": "^15.7.0"
   },
   "devDependencies": {
